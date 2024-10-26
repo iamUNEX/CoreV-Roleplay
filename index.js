@@ -38,7 +38,7 @@
   });
 
   const statusMessages = ["CoreV Roleplay"];
-  const statusTypes = ['Playing'];
+  const statusTypes = ['idle'];
   let currentStatusIndex = 0;
   let currentTypeIndex = 0;
 
